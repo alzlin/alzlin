@@ -1,16 +1,18 @@
-## Hi there 👋
+# [William Lin]
 
-<!--
-**alzlin/alzlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[Software | Fullstack Developer]**
+*“[Creating technological answers to life's complications]”*
 
-Here are some ideas to get you started:
+![Profile Badge](https://img.shields.io/badge/-GitHub_Profile-blue?style=for-the-badge&logo=github)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 👋
+
+How's it goin'! I'm a former Biomedical Sciences lifer on a journey to becoming a Fullstack/Web3 Developer! I'm passionate about future technologies, and I've got my eye heavily on the blockchain space.
+I'm just starting out, but I'm committed to learning and growing through my work as a part-time developer and my education attending Metana's Fullstack/Web3 bootcamp.
+
+- 💼 **Current Role**: [Software Developer, Autograph Analytics]
+- 🎓 **Education**: [Master of Biomedical Sciences, Rutgers Graduate School of Biomedical Sciences, 2016]
+- 🌱 **Currently Learning**: [Fullstack Development]
+- 🛠️ **Interests**: [Cooking (especially creating new dishes), singing, basketball, hiking, board games]
+
+Please feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/will-rs-lin/) or [email](williamlin725@gmail.com)!
